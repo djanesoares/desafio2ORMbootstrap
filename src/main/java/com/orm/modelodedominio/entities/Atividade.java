@@ -76,9 +76,6 @@ public class Atividade {
         return categoria;
     }
 
-    public void setCategoria(Categoria categoria) {
-        this.categoria = categoria;
-    }
 
     public List<Bloco> getBlocos() {
         return blocos;
